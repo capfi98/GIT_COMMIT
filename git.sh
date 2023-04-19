@@ -72,7 +72,7 @@ elif [ $RESP=="E" ]; then
 
         # Verificar la respuesta del usuario y agregar los cambios si la respuesta es afirmativa
         if [ $ANSW == "Y" ]; then
-		REMOTE=$(git config --get remote.origin.url)
+	REMOTE=$(git config --get remote.origin.url)
 		if [ "$WEB" == "$REMOTE" ]; then
     			# El control remoto ya existe
     			git branch -M main
