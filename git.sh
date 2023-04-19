@@ -6,8 +6,10 @@
 # Fecha: 19/04/2023
 # Versión:
 #       v.1: Leer descripcion, depende de un archivo git_data con tus datos,
-#	Ex:user:user
-#	token:abcdefghijklmnopqrstuvwxyz123456789
+#	Ex:user:
+#	user
+#	token:
+#	abcdefghijklmnopqrstuvwxyz123456789
 
 
 #Ingresa tus datos de importancia, es importante que mantengas tus datos en un archivo "git_data.txt'
